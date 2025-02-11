@@ -1,0 +1,4 @@
+﻿  SORTARI_P2.cpp
+C:\Users\Alexandra\OneDrive\Desktop\FACULTA\AN 2\SEM 1\SDA\EXAMEN\P2\SORTARI_P2\SORTARI_P2.cpp(498,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Alexandra\OneDrive\Desktop\FACULTA\AN 2\SEM 1\SDA\EXAMEN\P2\SORTARI_P2\SORTARI_P2.cpp(501,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  SORTARI_P2.vcxproj -> C:\Users\Alexandra\OneDrive\Desktop\FACULTA\AN 2\SEM 1\SDA\EXAMEN\P2\SORTARI_P2\x64\Debug\SORTARI_P2.exe

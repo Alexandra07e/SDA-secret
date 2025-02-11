@@ -1,0 +1,3 @@
+C:/Users/Alexandra/OneDrive/Desktop/FACULTA/AN 2/SEM 1/SDA/EXAMEN/P2/P2 PROBLEME/cmake-build-debug/CMakeFiles/P2.dir
+C:/Users/Alexandra/OneDrive/Desktop/FACULTA/AN 2/SEM 1/SDA/EXAMEN/P2/P2 PROBLEME/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alexandra/OneDrive/Desktop/FACULTA/AN 2/SEM 1/SDA/EXAMEN/P2/P2 PROBLEME/cmake-build-debug/CMakeFiles/rebuild_cache.dir
