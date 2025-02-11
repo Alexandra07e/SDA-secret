@@ -1,0 +1,19 @@
+1972,15,My Country Right or Wrong,War,Nu
+1942,18,Battle of Midway,War,Nu
+1970,26,Bloopers from Star Trek,Comedy,Nu
+1956,27,Case of the Mukkinese Battle Horn,Comedy,Da
+1991,28,Kids Pesticides,Drama,Nu
+1993,30,Alfred Hitchcock Presents Sorcerer's Apprentice,Mystery,Da
+1954,30,Bank on the Stars,Drama,Da
+1989,30,Matt Talbot,Drama,Da
+1954,40,Inauguration of the Pleasure Dome,Short,Nu
+1991,40,National Enquirer The Untold Story,Music,Nu
+1990,45,This Is Horror,Horror,Nu
+1986,49,Jay Leno The American Dream,Comedy,Nu
+1983,50,Father Murphy A Horse from Heaven,Comedy,Nu
+1987,50,Madonna Live The Virgin Tour,Music,Nu
+1990,50,Industrial Symphony The Dream of the Broken-Hearted,Music,Nu
+1964,51,Outer Limits The,Science Fiction,Da
+1992,52,Persuaders The Overture,Mystery,Da
+1986,52,Howie Mandel's North American Watusi Tour,Comedy,Nu
+1991,52,Lawless Frontier,Western,Nu

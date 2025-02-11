@@ -1,0 +1,5 @@
+An,Platforma,Titlu,Gen,Multiplayer
+2010,Xbox 360,Red Dead Redemption,Adventure,Nu
+2007,PC,The Witcher,RPG,Nu
+2011,PS3,Skyrim,Action-RPG,Da
+2009,Xbox 360,Left 4 Dead 2,Shooter,Da

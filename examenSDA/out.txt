@@ -1,0 +1,2 @@
+BUBBLESORT, 6 8 9 12 23 32 44 56 78 98 , timp de executie: 0.000000
+SHAKERSORT, 6 8 9 12 23 32 44 56 78 98 , timp de executie: 0.000000
